@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&family=Poppins:wght@900&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.about-us {
+    width: min-content;
+    height: min-content;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    top: 121.88rem;
+    margin: 0px;
+    /* left: -04.17%; */
+}
+
+.about-image {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: max-content;
+    height: max-content;
+    left: -03.17%;
+    right: 12.01%;
+    top: 121.88%;
+    bottom: 29.11%;
+    z-index: 6;
+}
+
+.abt-img {
+    position: relative;
+    left: 1%;
+    filter: drop-shadow(80px 80px 100px rgba(0, 0, 0, 0.4));
+}
+
+.about-text {
+    margin-left: 3000px;
+    margin-top: 3500px;
+    position: absolute;
+    color: whitesmoke;
+    display: flex;
+    /* top: 121.88%; */
+    flex-direction: column;
+    width: max-content;
+    height: max-content;
+    /* border: 1px solid yellow; */
+    padding: 20px;
+    justify-content: center;
+    /* align-items: flex-end; */
+}
+
+.para-title{
+    position: relative;
+    /* border: 1px solid orange; */
+    font-size: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'poppins', 'sans-serif';
+    align-items: center;
+    
+}
+
+.abt-tit{
+    position: relative;
+    /* border: 1px solid salmon; */
+    /* padding-bottom: 0%; */
+    height: min-content;
+    /* z-index: 100; */
+
+}
+.us-div{
+    margin-top: -100px;
+    /* border: 1px solid red; */
+    position: relative;
+    color: #0a352d;
+    font-size: 200px;
+    top: -10.88%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: flex-start;
+}
+.para{
+    text-align: right;
+    width: 500px;
+    height: 1000px;
+}
+.para-con{
+    position: relative;
+    /* top: 10px; */
+    padding: 20px;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

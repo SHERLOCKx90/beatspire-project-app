@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&family=Poppins:wght@900&display=swap');
+
+.hero-main {
+    margin-top: 100px;
+    /* border: 1px solid orange; */
+    width: max-content;
+    height: max-content;
+
+    position: absolute;
+    left: 6.04%;
+    right: 41.25%;
+    top: 7.72%;
+    bottom: 76.16%;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 120px;
+    line-height: 110px;
+    font-family: 'Poppins', sans-serif;
+    color: #FFFFFF;
+    padding: 30px;
+}
+
+.beatspire {
+    z-index: 3;
+    font-size: 200px;
+    margin-top: 60px;
+    color: #A5FFEF;
+}
+
+.beat {
+    color: #0a352d;
+}
+
+.hero {
+    z-index: 1;
+    display: flex;
+    flex-direction: column-reverse;
+    overflow: hidden;
+}
+
+.tagline {
+    /* border: 1px solid black; */
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    font-size: 30px;
+    /* margin-left: 85px;
+    margin-top: 30rem; */
+    padding: 35px;
+    /* padding-top: 60px; */
+    position: absolute;
+    left: 6.18%;
+    right: 62.85%;
+    top: 65.83%;
+    bottom: 73.53%;
+    width: max-content;
+    height: max-content;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 40px;
+    /* or 160% */
+
+
+    color: #FFFFFF;
+
+}
+
+.btn {
+    position: absolute;
+    top: 46rem;
+    left: 6.0%;
+    padding: 31px;
+}
+
+.btn-in {
+    padding: 20px;
+    border-radius: 50px;
+    background-color: #159F9F;
+    /* border-color: #159F9F; */
+    border: none;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+
+.body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
