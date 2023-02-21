@@ -1,3 +1,9 @@
+# BeatSpire
+>> _Find your Beat. Follow your Beat!_
+
+![BeatSpire](https://user-images.githubusercontent.com/97678993/220417188-8d859b01-2ac3-47ae-8f3e-9e1f535aff9d.gif)
+
+>>> Find the Songs you like based on your current mood! Tune up your vibe!✨
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
